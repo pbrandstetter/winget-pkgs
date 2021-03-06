@@ -1,0 +1,17 @@
+Id: Zoom.Zoom
+Name: Zoom
+AppMoniker: zoom
+Version: 5.5.4
+Publisher: Zoom Video Communications, Inc.
+Author: Zoom Video Communications, Inc.
+License: (c) 2021 Zoom Video Communications, Inc.
+LicenseUrl: https://zoom.us/terms
+Description: Enterprise video conferencing with real-time messaging and content sharing
+Homepage: https://zoom.us/meetings
+Installers:
+- Arch: neutral
+  Url: https://zoom.us/client/5.5.13142.0301/ZoomInstallerFull.msi
+  Sha256: 4ED05DA0EDFF5FE70FA740B14BCDEAD03377ED19475145DC42AE205480BF858C
+  InstallerType: msi
+  ProductCode: "{9A0F6468-2A0B-4E6A-B212-40C55E9B4B4B}"
+
